@@ -17,6 +17,7 @@ namespace TestGit1
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
+            //test after modifying the files
         }
     }
 }
